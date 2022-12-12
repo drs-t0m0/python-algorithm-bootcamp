@@ -9,7 +9,3 @@ def reverse(word: str):
         reverse('Greetings!') === '!sgniteerG'
     """
     return word[::-1]
-
-
-if __name__ == '__main__':
-    print(reverse('apple'))

@@ -7,8 +7,3 @@ def test_reverse_string():
 
 def test_reverse_string_with_blank():
     assert reverse('  abcd') == 'dcba  '
-
-
-if __name__ == '__main__':
-    test_reverse_string()
-    test_reverse_string_with_blank()
