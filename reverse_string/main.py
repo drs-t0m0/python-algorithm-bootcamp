@@ -1,4 +1,4 @@
-def reverse(word: str):
+def reverse(word: str) -> str:
     """
     Directions:
         Given a string, return a new string with the reversed

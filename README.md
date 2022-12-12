@@ -33,4 +33,5 @@ $ pytest
 
 ```
 $ flake8 .
+$ mypy .
 ```
