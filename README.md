@@ -28,3 +28,9 @@ $ pip install -r requirements.txt
 ```
 $ pytest
 ```
+
+## リント
+
+```
+$ flake8 .
+```
